@@ -53,7 +53,7 @@ This project implements a machine learning model to classify images of handwritt
 ### ▶️ Usage
 ```bash
 # Clone repository
-git clone https://github.com/Likhith257/Machine_Learning_Python_Project.git
+git clone https://github.com/Likhith257/Machine_Learning_Python_Project_IBM_Internship.git
 
 # Navigate to folder
 cd Machine_Learning_Python_Project
